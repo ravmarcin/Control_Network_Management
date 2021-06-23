@@ -1,0 +1,1 @@
+{"project": [{"project_name": "Prj_001", "project_revision": "_Rev_008"}], "files": [{"dump_file": "./CTN_data/Prj_001_Rev_008/CTN_db_dump.db", "dat_file": "", "existing_file": "./CTN_data/Prj_001_Rev_008/CTN_db_ex.db", "new_points_file": "./CTN_data/Prj_001_Rev_008/CTN_db_new.db", "changed_points_file": "", "residua_file": "./CTN_data/Prj_001_Rev_008/CTN_db_res.db"}]}
